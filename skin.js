@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.2/17873
 // Filename: dvistaminas 1.ggsk
-// Generated 2023-03-14T10:29:13
+// Generated 2023-03-14T12:45:17
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, false);
